@@ -1,0 +1,24 @@
+.heading{
+    margin: 30px;
+    color: blue;
+}
+.form{
+    margin: 30px;
+}
+.btn-CreactePort{
+    margin-top:15px;
+}
+.btn1{
+    margin-right: 55px;
+    margin-left: auto;
+    height: 38px;
+    font-weight: 600;
+}
+.btn1:hover{
+    background-color: black;
+    color:  white;
+}
+.table1{
+    margin-left: 30px;
+    margin-right: 85px;
+}
